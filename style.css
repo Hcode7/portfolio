@@ -166,5 +166,13 @@ a {
         display: flex;
         size: 9px;
     }
+    .nav-brand {
+        font-size: 15px;
+        display: flex;
+        align-items: center;
+    }
+    .text-nav {
+        font-size: 13px;
+    }
 }
 
